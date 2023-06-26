@@ -32,10 +32,10 @@ Next, you need to connect PostgreSQL to Django. Follow these steps:
 The final step is to create the `Student` model within your Django project. Here's what you need to do:
 
 - Locate the `models.py` file within your app (usually located in the app's directory).
-- Define the `Student` model with the required fields (name:char/email:email/good_student:boolean):
+- Define the `Customer` model with the required fields (first_name:char/last_name:char/account_type):
 
 ```bash
-class Student(models.Model):
+class Customer(models.Model):
     pass
 ```
 
