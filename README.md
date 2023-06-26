@@ -1,4 +1,4 @@
-# Django - Virtual Environment Setup and Basic
+# Django - Setup and Basic Models
 
 This assignment is designed to help you practice setting up a Django project, connecting it to a PostgreSQL database, and creating a basic model.
 
